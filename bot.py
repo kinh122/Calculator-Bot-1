@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright (C) @ZauteKm
+# Copyright (C) @kinh122
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -26,19 +26,19 @@ Bot = Client(
 
 
 START_TEXT = """
-Hello {}, I am Telegram [Calculator-Bot](https://Github.com/ZauteKm/Calculator-Bot).
+Hello {}, I am Telegram [Calculator-Bot]
 
 ▷ Send me /calculator and See my Magic.
 
-Made with by ❤️ [@ZauteKm](https://t.me/ZauteKm/604)
+Made with by ❤️ [@HAREESH M]
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🔥 Source Code', url='https://github.com/ZauteKm/Calculator-Bot'),
-        InlineKeyboardButton('Channel 📢', url='https://t.me/tgbotsProject/152')
+        InlineKeyboardButton
+        InlineKeyboardButton
         ]]
     )
-CALCULATE_TEXT = "▷ Made with by @ZauteKm"
+CALCULATE_TEXT = "▷ Made with by @hareesh m"
 CALCULATE_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton("DEL", callback_data="DEL"),
