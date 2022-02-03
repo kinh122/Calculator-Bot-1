@@ -8,7 +8,7 @@ Simple Telegram Calculator-Bot
 
 ```
 #!/usr/bin/env python3
-# Copyright (C) @ZauteKm
+# Copyright (C) @HAREESH
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -38,7 +38,7 @@ Simple Telegram Calculator-Bot
 <details><summary><b>Deploy to Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/ZauteKm/Calculator-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/kinh122/Calculator-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
